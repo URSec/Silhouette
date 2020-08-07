@@ -10,6 +10,8 @@
 [Developing Scripts and Docs](https://github.com/jzhou76/silhouette-misc)
 
 ## Contacts
-Jie Zhou: jiezhou@rochester.edu
+Jie Zhou: jzhou41@cs.rochester.edu
+
 Yufei Du: ydu14@ur.rochester.edu
+
 Zhuojia Shen: zshen10@cs.rochester.edu
