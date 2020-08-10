@@ -18,7 +18,7 @@ also provides coarse-grained forward-edge control flow integrity.
 ## Contacts
 Jie Zhou: jzhou41@cs.rochester.edu
 
-Yufei Du: ydu14@ur.rochester.edu
+Yufei Du: yufeidu@cs.unc.edu
 
 Zhuojia Shen: zshen10@cs.rochester.edu
 
