@@ -1,3 +1,6 @@
 [submodule "silhouette-misc"]
 	path = silhouette-misc
 	url = git@github.com:URSec/silhouette-misc.git
+[submodule "Silhouette-Compiler"]
+	path = Silhouette-Compiler
+	url = git@github.com:URSec/Silhouette-Compiler.git
