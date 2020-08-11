@@ -1,6 +1,6 @@
 ==============================================================================
 The license for Silhouette-Compiler can be found in the file
-Silhouette-Compiler/llvm/LICENSD.TXT directory.
+Silhouette-Compiler/llvm/LICENSE.TXT directory.
 
 The license for Silhouette-Compiler-Legacy can be found in the file
 Silhouette-Compiler-Legacy/LICENSE.TXT.
