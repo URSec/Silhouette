@@ -10,9 +10,9 @@ also provides coarse-grained forward-edge control flow integrity.
 
 [paper](https://www.cs.rochester.edu/u/jzhou41/papers/silhouette/silhouette.pdf)
 
-[Silhouette compiler](https://github.com/jzhou76/Silhouette)
+[Silhouette compiler](https://github.com/URSec/Silhouette-Compiler)
 
-[Developing Scripts and Docs](https://github.com/jzhou76/silhouette-misc)
+[Developing Scripts and Docs](https://github.com/URSec/silhouette-misc)
 
 
 ## Contacts
