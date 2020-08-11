@@ -4,3 +4,6 @@
 [submodule "Silhouette-Compiler"]
 	path = Silhouette-Compiler
 	url = git@github.com:URSec/Silhouette-Compiler.git
+[submodule "Silhouette-Compiler-Legacy"]
+	path = Silhouette-Compiler-Legacy
+	url = git@github.com:URSec/Silhouette-Compiler-Legacy.git
