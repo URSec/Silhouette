@@ -3,16 +3,20 @@
 ## Brief Introduction
 **Silhouette** is a compiler-based defense against code-reuse attacks on
 embedded ARM systems that run a single bare-metal application.
-It guarantees the integrity of all application return addresses and
+It **guarantees** the integrity of all application return addresses and
 also provides coarse-grained forward-edge control flow integrity.
+We have only tested for ARMv7M processors, but we see no major
+trouble porting Silhouette to other ARM M-serious processors.
 
-## Links
+For how Silhouette works, check out the [paper](https://www.cs.rochester.edu/u/jzhou41/papers/silhouette/silhouette.pdf).
 
-[paper](https://www.cs.rochester.edu/u/jzhou41/papers/silhouette/silhouette.pdf)
+## Try Silhouette
+The Silhouette compiler is at another [repo](https://github.com/URSec/Silhouette-Compiler).
+Please see the instructions in the compiler repo to build it.
 
-[Silhouette compiler](https://github.com/URSec/Silhouette-Compiler)
-
-[Developing Scripts and Docs](https://github.com/URSec/silhouette-misc)
+## Others
+The [miscellaneous scripts and docs](https://github.com/URSec/silhouette-misc)
+we used during developing this project.
 
 
 ## Contacts
