@@ -8,7 +8,8 @@ also provides coarse-grained forward-edge control flow integrity.
 We have only tested for ARMv7M processors, but we see no major
 trouble porting Silhouette to other ARM M-serious processors.
 
-For how Silhouette works, check out the [paper](https://www.cs.rochester.edu/u/jzhou41/papers/silhouette/silhouette.pdf).
+For how Silhouette works, check out the [paper and conference
+presentation](https://www.usenix.org/conference/usenixsecurity20/presentation/zhou-jie).
 
 ## Try Silhouette
 The Silhouette compiler is at another [repo](https://github.com/URSec/Silhouette-Compiler).
