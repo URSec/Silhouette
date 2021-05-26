@@ -28,3 +28,5 @@ Yufei Du: yufeidu@cs.unc.edu
 Zhuojia Shen: zshen10@cs.rochester.edu
 
 John Criswell: criswell@cs.rochester.edu
+
+Robert J. Walls: rjwalls@wpi.edu
