@@ -18,6 +18,13 @@ Please see the instructions in that repository to build it.  Alternatively,
 you can try out the Silhouette prototype that we used at
 [here](https://github.com/URSec/Silhouette-Evaluation).
 
+## Legacy Code
+The [legacy repository](https://github.com/URSec/Silhouette-Compiler-Legacy)
+contains our development history of the Silhouette compiler.  As it is based on
+the old LLVM repository and LLVM has migrated to a monolithic repository that
+contains all subprojects in a single source tree, **we are no longer
+maintaining it** but just leaving it there for the commit history.
+
 ## Contacts
 Jie Zhou: jzhou41@cs.rochester.edu
 
