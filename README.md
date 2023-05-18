@@ -10,13 +10,34 @@ trouble porting Silhouette to other ARM M-profile processors.
 
 For how Silhouette works, check out the [paper and conference
 presentation](https://www.usenix.org/conference/usenixsecurity20/presentation/zhou-jie).
+To cite Silhouette, you can use the following BibTeX entry:
+```bibtex
+@inproceedings{Silhouette:UsenixSec20,
+  author = {Zhou, Jie and Du, Yufei and Shen, Zhuojia and Ma, Lele and Criswell, John and Walls, Robert J.},
+  title = {Silhouette: Efficient Protected Shadow Stacks for Embedded Systems},
+  booktitle = {Proceedings of the 29th USENIX Security Symposium},
+  series = {Security '20},
+  year = {2020},
+  isbn = {978-1-939133-17-5},
+  location = {Boston, MA, USA},
+  pages = {1219--1236},
+  numpages = {18},
+  url = {https://www.usenix.org/conference/usenixsecurity20/presentation/zhou-jie},
+  publisher = {USENIX Association},
+  address = {Berkeley, CA, USA},
+}
+```
 
 ## Try Silhouette
 The Silhouette compiler is at [another
 repository](https://github.com/URSec/Silhouette-Compiler).
-Please see the instructions in that repository to build it.  Alternatively,
-you can try out the Silhouette prototype that we used at
+Please see the instructions in that repository to build it.
+If you happen to have an STM32F469 Discovery board at hand,
+you can replicate our evaluation of Silhouette at
 [here](https://github.com/URSec/Silhouette-Evaluation).
+Alternatively, you can try out the Silhouette prototype
+on a QEMU emulator following instructions at
+[here](https://github.com/URSec/Silhouette-QEMU-Demo).
 
 ## Legacy Code
 The [legacy repository](https://github.com/URSec/Silhouette-Compiler-Legacy)
